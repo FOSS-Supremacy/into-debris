@@ -2,6 +2,8 @@
 
 A game inspired by [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)
 
+## Motivation
+
 Lethal Company is a very fun game but has a horrible performance, we plan to make an open-source alternative.
 
 ## Goals
