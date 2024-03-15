@@ -13,6 +13,10 @@ Lethal Company is a very fun game but has a horrible performance, we plan to mak
 - Add different skyboxes
 - More weapons
 
+## Game Design
+
+- [Game Design](gdd.md)
+
 ## Chat
 
 You can join in our Matrix [here](https://matrix.to/#/#foss-supremacy-join:matrix.org).
